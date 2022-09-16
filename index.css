@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Photographs";
+    src: url("deps/Photographs.ttf");
+  }
+.timing{
+    opacity: 0;
+    font-size: 28px; 
+    transition: 300ms ease-in-out; 
+    color: white; 
+    font-family: "Photographs";
+    text-align: center; 
+    width: 300px;
+    display: inline;
+    letter-spacing: 1px;
+}
